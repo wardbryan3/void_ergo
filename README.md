@@ -36,11 +36,12 @@ The other change I will be doing is updating the bill of materials to amazon lin
 * 24 AWG (0.2 mm2) wire
 * 2 x Pico - Zero (6 / 15.88) (Amazon [link](https://a.co/d/47VWquV))
 * 2 x EC11 Rotary Encoder (6 / $8.88) (optional/Amazon [link](https://a.co/d/cTlOf2r) mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
-* 10 x M2x12 allen head screws (aliexpress [link](https://www.aliexpress.com/item/32966941844.html), 14mm overall length, 4mm diameter head)
-* 10 x M2 brass inserts (aliexpress [link](https://www.aliexpress.com/item/4000585933306.html), 3.5mm outer diameter)
-* 2 x PJ320A 3.5mm female audio connectors (aliexpress [link](https://www.aliexpress.com/item/32368285821.html))
-* 1 x 6x6x6 push button (optional (used to reset master)/aliexpress [link](https://www.aliexpress.com/item/32960657626.html))
+* 10 x M2x12 allen head screws (kit/ $21.99) (Amazon [link](https://a.co/d/dwUsE2A), 14mm overall length, 4mm diameter head)
+* 10 x M2 brass inserts (110/ $6.26)(Amazon [link](https://w by.com/item/4000585933306.html), 3.5mm outer diameter)
+* 2 x PJ320A 3.5mm female audio connectors(20/ $5.20) (Amazon [link](https://a.co/d/8otW3NJ))
 * hot glue for securing the Pro Micros to the bottom case (optional, but recommended) the audio connectors and the reset push button.
+
+Rough Total: $118.25 (this is enough to make 2 keyboards, and have lots of conponents leftover) 
 
 # Pin assignment
 
