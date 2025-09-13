@@ -1,5 +1,5 @@
 # VOID Ergo S
-*A handwired split keyboard, running QMK firmware*
+*A handwired split keyboard, running QMK firmware with vial support*
 
 ![VOID Ergo S](https://i.imgur.com/aQ571vc.jpg)
 
@@ -18,11 +18,15 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 
 ![VOID Ergo Fat](https://i.imgur.com/liKmJqt.jpg)
 
-# Handwiring guide
+# My changes (wardbryan)
 
-I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
+The most important change I am making is swappinf the pro micros for an rp2040-zero. these are cheaper and have more memory, which should allow me to enable more features in qmk/vial. 
 
-| ![](https://i.imgur.com/01WknB5.jpg) 	| ![](https://i.imgur.com/GMMczAH.jpg) 	| ![](https://i.imgur.com/5NyUoJY.jpg) 	|
+I am also only going to be using a single encoder on the left half. (Originally I was going with 0 encoders, but was conviced that I needed to try them at least)
+
+
+The other change I will be doing is updating the bill of materials to amazon links. Prices will be added as well, however thats just more to track it. Prices were added september of 2025. 
+
 |---------------------------------------|---------------------------------------|---------------------------------------|
 
 # Bill of Materials
